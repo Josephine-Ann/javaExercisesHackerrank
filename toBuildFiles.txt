@@ -1,0 +1,11 @@
+zProblem="java2dArray"
+
+mkdir -p "/Users/josephine.geoghegan@apryse.com/Library/CloudStorage/OneDrive-Apryse/Desktop/code/hackerrankJava/dataStructures/${zProblem}"
+
+touch "/Users/josephine.geoghegan@apryse.com/Library/CloudStorage/OneDrive-Apryse/Desktop/code/hackerrankJava/dataStructures/${zProblem}/Solution.java"
+
+cp "/Users/josephine.geoghegan@apryse.com/Library/CloudStorage/OneDrive-Apryse/Desktop/code/hackerrankJava/dataStructures/java1dArrayIntro/run.sh" "/Users/josephine.geoghegan@apryse.com/Library/CloudStorage/OneDrive-Apryse/Desktop/code/hackerrankJava/dataStructures/${zProblem}/run.sh"
+
+chmod +x "/Users/josephine.geoghegan@apryse.com/Library/CloudStorage/OneDrive-Apryse/Desktop/code/hackerrankJava/dataStructures/${zProblem}/run.sh"
+
+open "/Users/josephine.geoghegan@apryse.com/Library/CloudStorage/OneDrive-Apryse/Desktop/code/hackerrankJava/dataStructures/${zProblem}/Solution.java"
